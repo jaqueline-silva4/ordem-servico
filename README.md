@@ -88,7 +88,7 @@ O diagrama a seguir representa toda a estrutura do sistema, incluindo as classes
 
 ### 👥 Equipe de Desenvolvimento
 | Integrantes |
-|-------------|------------------|
+---
 | **Jaqueline Silva** | **Mariana Rafaela** | **Andressa Evilin** |
 
 ---
